@@ -12,7 +12,7 @@
        url: "https://{{ inventory_hostname }}/mgmt/shared/appsvcs/declare/{{tenant}}"
        method: "GET"
        user: "admin"
-       password: "admin"
+       password: "f5DEMOs4u!"
        validate_certs: no
        body_format: json
        return_content: yes
